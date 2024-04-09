@@ -30,7 +30,7 @@ def circulate():
     print('After circulating the values are:',l)
 ```
 ## Output:
-![image](https://github.com/sanjaykumar-nb/Circulate-the-values-of-N-variables/assets/154039979/f2e431c8-ca2a-4e65-a859-7b16e4dfaa0f)
+![alt text](<Screenshot 2024-04-09 072340.png>)
 
 
 ## Result:
